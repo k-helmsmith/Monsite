@@ -49,6 +49,11 @@ main > .intro {
 	font-weight: 600;
 }
 
+main > .intro > a {
+	font-family: 'Montserrat';
+	font-weight: 700;
+}
+
 main > .tagline {
 	font-size: 1.5rem;
 	margin: 1.5rem 0;
